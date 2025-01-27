@@ -9,8 +9,7 @@
 
 I'm a highly motivated **Software Engineer** with experience in website development. I enjoy learning new things and applying my knowledge in meaningful ways. In addition, I have a hobby — I enjoy participating in [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) (Capture The Flag) events as a **Web Security Analyst**. Also, I solve problems on LeetCode in my free time.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaShelestov&layout=donut&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-![LeetCode Stats](https://leetcard.jacoblin.cool/_shelestov_?theme=light&height=215&font=Noto%20Sans)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaShelestov&layout=donut&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)![LeetCode Stats](https://leetcard.jacoblin.cool/_shelestov_?theme=light&height=215&font=Noto%20Sans)
 
 ## ✨ Skills
 
