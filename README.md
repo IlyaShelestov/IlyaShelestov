@@ -14,7 +14,7 @@ I'm a highly motivated **Software Engineer** with experience in website developm
 
 ## 📝 Projects
 
-- Developed a landing page for [Softcraft](https://soft-craft.kz/) (*[Repository](https://github.com/IlyaShelestov/Softcraft)*)
+- Developed a landing page for [Softcraft](https://soft-craft.kz/) (*[Repository](https://github.com/IlyaShelestov/Softcraft)*).
 - Created a [Blog Website](https://github.com/IlyaShelestov/AnimalsApp) (Express.js, MongoDB).
 
 ## 🏆 Accomplishments
