@@ -12,6 +12,16 @@ I'm a highly motivated **Software Engineer** with experience in website developm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaShelestov&layout=donut&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_shelestov_?theme=light&height=215&width=490&font=Noto%20Sans)
 
+## 📝 Projects
+
+- Developed a landing page for [Softcraft](https://soft-craft.kz/) (*[Repository](https://github.com/IlyaShelestov/Softcraft)*)
+- Created a [Blog Website](https://github.com/IlyaShelestov/AnimalsApp) (Express.js, MongoDB).
+
+## 🏆 Accomplishments
+
+- 🥉 Achieved third place in the [AITU CTF](https://astanait.edu.kz/en/2024/11/25/aitu-ctf-hackathon-3/)
+- 🥉 My team took a third place in the [Cyber Challenge STS](https://sts.kz/en/2024/12/17/final-cyber-challenge-sts-zavershen-luchshie-kiberspecialisty-kazahstana-opredeleny/)
+
 ## ✨ Skills
 
 ### 💻 Programming Languages
@@ -62,12 +72,3 @@ I'm a highly motivated **Software Engineer** with experience in website developm
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
-
-## 📝 Projects
-
-- Developed a landing page for [Softcraft](https://soft-craft.kz/) (*[Repository](https://github.com/IlyaShelestov/Softcraft)*)
-- Created a [Blog Website](https://github.com/IlyaShelestov/AnimalsApp) (Express.js, MongoDB).
-
-## 🏆 Accomplishments
-- 🥉 Achieved third place in the [AITU CTF](https://astanait.edu.kz/en/2024/11/25/aitu-ctf-hackathon-3/)
-- 🥉 My team took a third place in the [Cyber Challenge STS](https://sts.kz/en/2024/12/17/final-cyber-challenge-sts-zavershen-luchshie-kiberspecialisty-kazahstana-opredeleny/)
