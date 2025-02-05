@@ -3,6 +3,8 @@
 [<img align="left" alt="ilyashelestov | LinkedIn" src="./linkedin.svg" width="30px" />](https://www.linkedin.com/in/ilyashelestov/)
 [<img align="left" alt="shelestov2905 | Gmail" src="./gmail.svg" width="30px" />](mailto:shelestov2905@gmail.com)
 [<img align="left" alt="_shelestov_ | LeetCode" src="./leetcode.png" width="28px" />](https://leetcode.com/u/_shelestov_/)
+[<img align="left" alt="_shelestov_ | LeetCode" src="./ctftime.png" width="28px" />](https://ctftime.org/user/206417)
+
 
 <br>
 <br>
